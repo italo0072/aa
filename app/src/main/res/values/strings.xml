@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="UGB">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="vbv">Notifications</string>
+    <string name="ugb">UGb</string>
+    <string name="Calendarizacion">Calendarizacion.</string>
+    <string name="calendarizacion">calendarizacion</string>
+    <string name="string_calendarizacion" />
+    <string name="portal">portal</string>
+    <string name="string_portal" />
+    <string name="string_string_portal" />
+    <string name="string_string_string_portal">portal</string>
+</resources>

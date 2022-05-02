@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/gorra_de_estudiantes"
+        android:title="@string/ugb" />
+
+    <item
+        android:id="@+id/btnportal"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/string_string_string_portal" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/calendario"
+        android:title="@string/Calendarizacion" />
+
+</menu>
